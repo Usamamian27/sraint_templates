@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Sep 2019 14:06:25 at https://colorlib.com/etc/fashe/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://colorlib.com/etc/fashe/index.html -O1 "C:\Users\usama\Desktop\Sraint Templates\Fashe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:07:14	Error: 	"Not Found" (404) at link https://colorlib.com/etc/fashe/images/icons/pattern1.png (from https://colorlib.com/etc/fashe/css/util.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 seconds : 139 links scanned, 137 files written (9790589 bytes overall) [7224216 bytes received at 147432 bytes/sec], 4326309 bytes transferred using HTTP compression in 62 files, ratio 38%, 34.7 requests per connection
+(1 errors, 0 warnings, 0 messages)
